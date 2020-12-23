@@ -1,0 +1,22 @@
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.exe
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.deps.json
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.json
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.dev.json
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.dll
+C:\Users\ravid\Desktop\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.pdb
+C:\Users\ravid\Desktop\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.csprojAssemblyReference.cache
+C:\Users\ravid\Desktop\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfoInputs.cache
+C:\Users\ravid\Desktop\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfo.cs
+C:\Users\ravid\Desktop\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.dll
+C:\Users\ravid\Desktop\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.pdb
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.exe
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.deps.json
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.json
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.dev.json
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.dll
+C:\Users\Rohit PC\Downloads\Movie\Movie\bin\Debug\netcoreapp3.1\Movie.pdb
+C:\Users\Rohit PC\Downloads\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.csprojAssemblyReference.cache
+C:\Users\Rohit PC\Downloads\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfoInputs.cache
+C:\Users\Rohit PC\Downloads\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfo.cs
+C:\Users\Rohit PC\Downloads\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.dll
+C:\Users\Rohit PC\Downloads\Movie\Movie\obj\Debug\netcoreapp3.1\Movie.pdb
